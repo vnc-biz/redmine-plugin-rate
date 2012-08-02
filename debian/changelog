@@ -1,0 +1,5 @@
+redmine-plugin-rate (0.2.1.2-precise0) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Thu, 06 Aug 2012 05:19:13 +0200
